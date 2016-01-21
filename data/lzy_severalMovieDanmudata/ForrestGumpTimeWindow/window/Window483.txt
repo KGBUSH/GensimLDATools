@@ -1,0 +1,1 @@
+{"id":483,"startTime":4830.0,"endTime":4860.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3.2,"userFeature":{"3a226617":{"detail":{"悔改":1,"死":1,"不":1}},"2f349ff9":{"detail":{"she":1,"fucks":1,"hard":1}},"5ceeeded":{"detail":{"黑":1,"木耳":1,"绝壁":1}},"1f9cc43b":{"detail":{"黑":1,"木耳":1,"赤果果":1}},"66b396a6":{"detail":{"效应":1,"蝴蝶":1,"女主":1,"遭遇":1}}}}

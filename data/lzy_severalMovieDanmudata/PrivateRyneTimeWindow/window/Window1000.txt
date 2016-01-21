@@ -1,0 +1,1 @@
+{"id":1000,"startTime":10000.0,"endTime":10030.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2.5,"userFeature":{"5a046c8c":{"detail":{"最后":1,"坚守":1,"致敬":1}},"d18ef6fd":{"detail":{"怎么":1,"没":1,"字幕":1}},"b1db09bf":{"detail":{"摄":1,"人":1,"心魄":1,"音乐":1}}}}

@@ -1,0 +1,1 @@
+{"id":846,"startTime":8460.0,"endTime":8490.0,"userAlive":1,"numOfDanmaku":1,"averageLength":4.0,"userFeature":{"ccfd8066":{"detail":{"卡":1,"啥":1,"后面":1,"这么":1}}}}

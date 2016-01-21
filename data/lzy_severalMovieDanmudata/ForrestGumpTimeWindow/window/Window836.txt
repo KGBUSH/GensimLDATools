@@ -1,0 +1,1 @@
+{"id":836,"startTime":8360.0,"endTime":8390.0,"userAlive":2,"numOfDanmaku":2,"averageLength":5.5,"userFeature":{"f127fb2f":{"detail":{"要":1,"生活":1,"这":1,"艰难":1}},"b856bb59":{"detail":{"我":2,"自己":1,"做":1,"可以":1,"为什么":1,"不":1}}}}

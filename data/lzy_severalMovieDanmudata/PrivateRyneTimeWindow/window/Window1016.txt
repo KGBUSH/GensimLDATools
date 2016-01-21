@@ -1,0 +1,1 @@
+{"id":1016,"startTime":10160.0,"endTime":10190.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2.5,"userFeature":{"Df47d31f":{"detail":{"完结散花":1}},"ba9ee443":{"detail":{"条":1,"要":1,"这":1,"艹":1,"天":1,"进度":1,"是":1}},"Da6fd806":{"detail":{"成功":1,"空降":1}}}}

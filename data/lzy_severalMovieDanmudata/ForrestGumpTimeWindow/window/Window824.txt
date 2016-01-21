@@ -1,0 +1,1 @@
+{"id":824,"startTime":8240.0,"endTime":8270.0,"userAlive":2,"numOfDanmaku":2,"averageLength":6.0,"userFeature":{"30a31c44":{"detail":{"我":1,"要":1,"电影":1,"结尾":1,"告诉":1,"他":1,"看到":2,"有人":1,"好":1}},"246e1884":{"detail":{"偷偷":1,"承包":1}}}}

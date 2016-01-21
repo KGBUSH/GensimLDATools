@@ -1,0 +1,1 @@
+{"id":465,"startTime":4650.0,"endTime":4680.0,"userAlive":1,"numOfDanmaku":1,"averageLength":9.0,"userFeature":{"bea81c3a":{"detail":{"一":1,"100":1,"袋子":1,"得":1,"这":1,"有":1,"狗牌":1,"起码":1,"以上":1}}}}

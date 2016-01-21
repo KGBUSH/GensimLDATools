@@ -1,0 +1,1 @@
+{"id":453,"startTime":4530.0,"endTime":4560.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3.2,"userFeature":{"4fed93a4":{"detail":{"丹嫉妒":1,"死":1}},"9ac5361e":{"detail":{"你":1,"要":1,"打":1,"死":1,"都":1,"一起":1}},"b9bf65d7":{"detail":{"就":1,"没什么":1,"哈哈":1,"原因":1,"死":1}},"Df3e202d":{"detail":{"川甘":1,"江户":1}},"5aa73496":{"detail":{"233":1}}}}

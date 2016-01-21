@@ -1,0 +1,1 @@
+{"id":433,"startTime":4330.0,"endTime":4360.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2.0,"userFeature":{"717d181c":{"detail":{"flag":1,"这":1}},"16992702":{"detail":{"233":1}},"e398b31a":{"detail":{"233":1}},"6221c433":{"detail":{"flag":1}},"Dfa949e0":{"detail":{"什么":1,"意思":1,"镀金":1}},"6ddbeff4":{"detail":{"fLAG":1,"上尉":1,"立":1,"下":1}}}}

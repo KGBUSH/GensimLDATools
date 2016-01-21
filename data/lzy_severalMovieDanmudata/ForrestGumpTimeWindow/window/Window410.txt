@@ -1,0 +1,1 @@
+{"id":410,"startTime":4100.0,"endTime":4130.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3.2,"userFeature":{"2f349ff9":{"detail":{"却":1,"嚷":1,"战":1,"叫":1,"反":1,"种族":1,"矛盾":1,"搞":1,"是":1}},"5b6541a0":{"detail":{"绿":1}},"804a713a":{"detail":{"233":1}},"ddaad1a7":{"detail":{"坑":1}},"1a517205":{"detail":{"一个":1,"来":1,"又":1,"rapper":1}}}}

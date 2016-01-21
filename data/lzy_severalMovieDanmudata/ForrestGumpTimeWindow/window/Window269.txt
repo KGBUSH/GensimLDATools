@@ -1,0 +1,1 @@
+{"id":269,"startTime":2690.0,"endTime":2720.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3.4,"userFeature":{"4fed93a4":{"detail":{"哈哈哈":2}},"431b90ce":{"detail":{"牙刷":1,"刷":1,"还":1,"这":1,"鞋":1,"是":1}},"16f35987":{"detail":{"一个":1,"越共":1,"家伙":1,"叫":1}},"f89e237b":{"detail":{"远景":1,"如":1,"画":1,"美":1}},"9de0a6f4":{"detail":{"233":1}}}}

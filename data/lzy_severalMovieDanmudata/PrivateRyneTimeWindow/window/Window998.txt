@@ -1,0 +1,1 @@
+{"id":998,"startTime":9980.0,"endTime":10010.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3.0,"userFeature":{"D346dad2":{"detail":{"渐":1,"强":1,"音乐":1}}}}

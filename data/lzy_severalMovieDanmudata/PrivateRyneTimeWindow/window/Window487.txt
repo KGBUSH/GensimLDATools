@@ -1,0 +1,1 @@
+{"id":487,"startTime":4870.0,"endTime":4900.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2.3333333333333335,"userFeature":{"D53f3df8":{"detail":{"你":1,"233":1,"铅笔":1,"小":1}},"adefd31c":{"detail":{"233":1}},"ebd34405":{"detail":{"希望":1}},"a2b6567d":{"detail":{"旁边":1,"那个":1,"好像":1,"谢耳朵":1}},"b7da84b8":{"detail":{"233":2,"铅笔":1,"小":1}}}}

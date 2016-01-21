@@ -1,0 +1,1 @@
+{"id":841,"startTime":8410.0,"endTime":8440.0,"userAlive":4,"numOfDanmaku":4,"averageLength":4.0,"userFeature":{"69b157d9":{"detail":{"燃":1,"bgm":1,"好":1}},"cfce9a8c":{"detail":{"国庆":1,"2015101":1,"快乐":1}},"fa4c5021":{"detail":{"第十":1,"放映室":1}},"07a95808":{"detail":{"到":1,"要":1,"最后":1,"现在":1,"还":1,"在":1,"存活":1,"留":1}}}}

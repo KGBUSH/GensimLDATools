@@ -1,0 +1,1 @@
+{"id":226,"startTime":2260.0,"endTime":2290.0,"userAlive":2,"numOfDanmaku":3,"averageLength":2.3333333333333335,"userFeature":{"16f35987":{"detail":{"吐槽":1,"口琴":1,"真是":1,"神":1,"穿":1}},"2839d41c":{"detail":{"汉子":1,"是":1}}}}

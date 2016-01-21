@@ -1,0 +1,1 @@
+{"id":996,"startTime":9960.0,"endTime":9990.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2.6,"userFeature":{"77c48c58":{"detail":{"这个":1,"我":1,"喜欢":1,"好":1,"ed":1}},"77728970":{"detail":{"致敬":1,"和平":1,"战士":1}},"b57c9d00":{"detail":{"2015816":1}},"D346dad2":{"detail":{"渐":1,"强":1,"音乐":1}},"5131af92":{"detail":{"150816":1}}}}

@@ -1,0 +1,1 @@
+{"id":408,"startTime":4080.0,"endTime":4110.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2.0,"userFeature":{"1557fbd0":{"detail":{"黑":1,"左派":1,"又":1}},"ddaad1a7":{"detail":{"坑":1}},"f9f67d2c":{"detail":{"黑豹党":1}},"dc2ac011":{"detail":{"当":1,"爹":1,"喜":1}}}}

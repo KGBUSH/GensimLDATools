@@ -1,0 +1,1 @@
+{"id":545,"startTime":5450.0,"endTime":5480.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2.3333333333333335,"userFeature":{"Dd70aafe":{"detail":{"走":1,"GTA":1,"别":1}},"a6a9f623":{"detail":{"GTA":1,"玩":1,"多":1}},"4ea7d9c0":{"detail":{"杀人犯":1,"真正":1}},"4ed34b73":{"detail":{"233":1}},"7f25835a":{"detail":{"真凶":1,"出现":1}},"51176f36":{"detail":{"杀":1,"要":1,"证人":1}}}}

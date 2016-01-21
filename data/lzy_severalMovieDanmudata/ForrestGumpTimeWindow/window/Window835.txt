@@ -1,0 +1,1 @@
+{"id":835,"startTime":8350.0,"endTime":8380.0,"userAlive":1,"numOfDanmaku":2,"averageLength":6.5,"userFeature":{"b856bb59":{"detail":{"你":1,"什么":1,"我":2,"想":1,"成为":1,"自己":1,"长大":1,"人":1,"做":1,"可以":1,"为什么":1,"不":1}}}}

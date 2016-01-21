@@ -1,0 +1,1 @@
+{"id":217,"startTime":2170.0,"endTime":2200.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3.2,"userFeature":{"ab7cf85f":{"detail":{"嘴炮":1}},"27add7f1":{"detail":{"改变":1,"命运":1,"知识":1}},"9fd0c02b":{"detail":{"一模一样":1,"这":1,"小说":1}},"4ea7d9c0":{"detail":{"爆表":1,"智力":1}},"D71c20fd":{"detail":{"这个":1,"队长":1,"演":1,"闪电侠":1,"那个":1,"军官":1,"里":1}}}}

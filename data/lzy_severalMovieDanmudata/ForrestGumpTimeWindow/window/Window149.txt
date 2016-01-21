@@ -1,0 +1,1 @@
+{"id":149,"startTime":1490.0,"endTime":1520.0,"userAlive":4,"numOfDanmaku":5,"averageLength":3.4,"userFeature":{"17946fbd":{"detail":{"走":1,"我":2,"就":1,"要":1,"下去":1,"听":1,"不":1,"是":1}},"ce9d30a5":{"detail":{"我":1,"谈笑风生":1,"他":1}},"00c4f61c":{"detail":{"华莱士":1,"谈笑风生":1,"车":1,"⑨":1}},"43869ae0":{"detail":{"54":1}}}}

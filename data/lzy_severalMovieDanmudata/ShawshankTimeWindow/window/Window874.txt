@@ -1,0 +1,1 @@
+{"id":874,"startTime":8740.0,"endTime":8770.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2.0,"userFeature":{"Dd9149db":{"detail":{"movie":1,"good":1}}}}

@@ -1,0 +1,1 @@
+{"id":225,"startTime":2250.0,"endTime":2280.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3.25,"userFeature":{"f89e237b":{"detail":{"本来":1,"就是":1}},"16f35987":{"detail":{"吐槽":1,"口琴":1,"真是":1,"神":1}},"9f262fb1":{"detail":{"就是":1,"不":1,"是":1,"长":1,"像":1}},"f9308655":{"detail":{"袋鼠":1,"船长":1}}}}

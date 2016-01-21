@@ -1,0 +1,1 @@
+{"id":480,"startTime":4800.0,"endTime":4830.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3.0,"userFeature":{"D53f3df8":{"detail":{"我":1,"也":1,"是":1}},"db696d1f":{"detail":{"还有":1,"兄弟":1}},"D5ff685b":{"detail":{"兄弟":1,"101":1,"那个":1,"空降师":1}}}}

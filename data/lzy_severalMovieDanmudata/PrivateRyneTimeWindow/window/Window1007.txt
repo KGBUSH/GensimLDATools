@@ -1,0 +1,1 @@
+{"id":1007,"startTime":10070.0,"endTime":10100.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1.6666666666666667,"userFeature":{"003d91f3":{"detail":{"撒花":1}},"5a046c8c":{"detail":{"渐":1,"弱":1,"音乐":1}},"57457f0f":{"detail":{"进度":1}}}}

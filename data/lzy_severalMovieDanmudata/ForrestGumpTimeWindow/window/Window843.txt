@@ -1,0 +1,1 @@
+{"id":843,"startTime":8430.0,"endTime":8460.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3.3333333333333335,"userFeature":{"91d42dc6":{"detail":{"Bgm":1,"好评":1}},"cfce9a8c":{"detail":{"国庆":1,"2015101":1,"快乐":1}},"9ebf68c9":{"detail":{"到":1,"最后":1,"一定":1,"留":1,"会":1}}}}

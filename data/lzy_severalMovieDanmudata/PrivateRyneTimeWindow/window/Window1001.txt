@@ -1,0 +1,1 @@
+{"id":1001,"startTime":10010.0,"endTime":10040.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2.6666666666666665,"userFeature":{"5a046c8c":{"detail":{"最后":1,"坚守":1,"致敬":1}},"3132335a":{"detail":{"要":1,"最后":1,"一刻":1,"看到":1}},"8fe25bbb":{"detail":{"听":1,"完":1}},"d18ef6fd":{"detail":{"怎么":1,"没":1,"字幕":1}},"b1db09bf":{"detail":{"摄":1,"人":1,"心魄":1,"音乐":1}}}}

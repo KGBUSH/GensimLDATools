@@ -1,0 +1,1 @@
+{"id":386,"startTime":3860.0,"endTime":3890.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1.6,"userFeature":{"9ac5361e":{"detail":{"233":1}},"fe9b3f95":{"detail":{"笑":1,"尿":1}},"53d47ab7":{"detail":{"233":1}},"Dd6ce553":{"detail":{"军装":1,"帅":1,"好":1}},"33111b4b":{"detail":{"233":1}}}}

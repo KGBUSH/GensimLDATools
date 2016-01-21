@@ -1,0 +1,1 @@
+{"id":227,"startTime":2270.0,"endTime":2300.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1.8,"userFeature":{"16f35987":{"detail":{"穿":1}},"9aed532d":{"detail":{"作践":1,"自己":2}},"995068df":{"detail":{"美国":1,"哈哈哈":1,"梦":1}},"2839d41c":{"detail":{"汉子":1,"是":1}}}}

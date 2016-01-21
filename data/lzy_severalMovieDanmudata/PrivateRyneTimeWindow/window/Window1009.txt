@@ -1,0 +1,1 @@
+{"id":1009,"startTime":10090.0,"endTime":10120.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2.25,"userFeature":{"fe47f66b":{"detail":{"祈求":1,"存活":1,"和平":1}},"3563b422":{"detail":{"2015815":1,"投降":1,"日本":1,"纪念日":1}},"b23bffc3":{"detail":{"201508151935":1}},"5e0c9798":{"detail":{"12015817":1}}}}

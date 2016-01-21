@@ -1,0 +1,1 @@
+{"id":485,"startTime":4850.0,"endTime":4880.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2.6666666666666665,"userFeature":{"ff687460":{"detail":{"下去":1,"忍":1,"不":1}},"a2b6567d":{"detail":{"旁边":1,"那个":1,"好像":1,"谢耳朵":1}},"b7da84b8":{"detail":{"233":1}}}}

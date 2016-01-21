@@ -1,0 +1,1 @@
+{"id":990,"startTime":9900.0,"endTime":9930.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1.6666666666666667,"userFeature":{"fe47f66b":{"detail":{"战片":1,"经典":1,"反":1}},"64a0ee35":{"detail":{"2015816":1}},"9ac04cd8":{"detail":{"2015815":1,"留念":1}},"bacd8c45":{"detail":{"2015929":1,"经典":1}},"91f7c5bf":{"detail":{"2015815":1}},"Dbea5163":{"detail":{"2015816":1}}}}

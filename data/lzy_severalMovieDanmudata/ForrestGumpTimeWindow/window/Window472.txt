@@ -1,0 +1,1 @@
+{"id":472,"startTime":4720.0,"endTime":4750.0,"userAlive":4,"numOfDanmaku":5,"averageLength":3.2,"userFeature":{"8ab00bea":{"detail":{"新":1,"虾王":1}},"5bd1306a":{"detail":{"哈哈哈":1,"哈哈":1,"王":1,"虾":1}},"dd4f6c6c":{"detail":{"顶":1,"他":1,"高":1,"天天":1,"不":1,"也":1,"住":1,"喝酒":1}},"a0098983":{"detail":{"九":1,"税":1}}}}

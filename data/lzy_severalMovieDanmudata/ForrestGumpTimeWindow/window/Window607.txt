@@ -1,0 +1,1 @@
+{"id":607,"startTime":6070.0,"endTime":6100.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1.8333333333333333,"userFeature":{"2f349ff9":{"detail":{"感性":1,"很":1,"路人":1}},"a2315311":{"detail":{"泪目":1}},"14b74bbf":{"detail":{"大智若愚":1}},"16f46c30":{"detail":{"啊甘":1,"眼神":1,"好":1,"纯真":1}},"D1c4b4f3":{"detail":{"感动":1}},"53d47ab7":{"detail":{"233":1}}}}

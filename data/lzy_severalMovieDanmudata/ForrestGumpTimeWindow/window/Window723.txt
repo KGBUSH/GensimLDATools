@@ -1,0 +1,1 @@
+{"id":723,"startTime":7230.0,"endTime":7260.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3.3333333333333335,"userFeature":{"8ab00bea":{"detail":{"吸毒":1,"就":1,"不":2,"这样":1}},"afa1036e":{"detail":{"太":1,"多":1,"女主美":1}},"419f6097":{"detail":{"正常人":1,"回归":1}}}}

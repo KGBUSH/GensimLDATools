@@ -1,0 +1,1 @@
+{"id":994,"startTime":9940.0,"endTime":9970.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3.25,"userFeature":{"77c48c58":{"detail":{"这个":1,"我":1,"喜欢":1,"好":1,"ed":1}},"5a046c8c":{"detail":{"and":1,"us":1}},"2dd7b404":{"detail":{"到":1,"我":1,"最后":1,"还":1,"陪伴":1}},"b57c9d00":{"detail":{"2015816":1}}}}

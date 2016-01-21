@@ -1,0 +1,1 @@
+{"id":732,"startTime":7320.0,"endTime":7350.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3.0,"userFeature":{"32f9aa08":{"detail":{"wow":1}},"975006fc":{"detail":{"我":1,"选择":1,"死亡":1}},"983c8fd5":{"detail":{"脑子":1,"还有":1,"啪啪啪":1,"什么":1,"里":1,"男人":1}},"eb78b9d9":{"detail":{"哈哈哈":1,"233":1}}}}

@@ -1,0 +1,1 @@
+{"id":1004,"startTime":10040.0,"endTime":10070.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3.25,"userFeature":{"5a046c8c":{"detail":{"我们":1,"在":1,"是的":1,"都":1}},"fbe6575c":{"detail":{"结尾曲":1,"要":1,"一定":1,"听":1,"完":1}},"2dd7b404":{"detail":{"最后":1,"坚持":1}},"D85058af":{"detail":{"片子":1,"好":1}}}}

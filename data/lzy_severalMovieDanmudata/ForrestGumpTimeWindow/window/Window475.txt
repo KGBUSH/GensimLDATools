@@ -1,0 +1,1 @@
+{"id":475,"startTime":4750.0,"endTime":4780.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2.75,"userFeature":{"2f349ff9":{"detail":{"单纯":1,"阿甘好":1,"正直":1,"好":1}},"5bd64737":{"detail":{"抽烟":2}},"16f46c30":{"detail":{"好纯":1}},"3bf7f35f":{"detail":{"篡位":1,"想":1,"当":1,"虾王":1}}}}

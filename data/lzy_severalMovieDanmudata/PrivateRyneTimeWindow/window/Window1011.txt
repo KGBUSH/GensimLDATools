@@ -1,0 +1,1 @@
+{"id":1011,"startTime":10110.0,"endTime":10140.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3.5,"userFeature":{"fe47f66b":{"detail":{"祈求":1,"存活":1,"和平":1}},"5a046c8c":{"detail":{"一":1,"最后":1,"万岁":1,"来":1,"弹幕":1,"和平":1}},"e3337def":{"detail":{"到":1,"最后":1}},"d18ef6fd":{"detail":{"1":1,"硬币":1,"感谢":1}}}}

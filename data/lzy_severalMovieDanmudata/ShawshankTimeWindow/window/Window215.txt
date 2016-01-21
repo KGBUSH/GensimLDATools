@@ -1,0 +1,1 @@
+{"id":215,"startTime":2150.0,"endTime":2180.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2.3333333333333335,"userFeature":{"6939c41b":{"detail":{"全":1,"剧终":1}},"ab7cf85f":{"detail":{"嘴炮":1}},"27add7f1":{"detail":{"改变":1,"命运":1,"知识":1}},"e466cfc6":{"detail":{"我":1,"接":1,"下面":1,"住":1}},"ce6ec3ca":{"detail":{"T":1,"弹幕":1}},"4ea7d9c0":{"detail":{"爆表":1,"智力":1}}}}

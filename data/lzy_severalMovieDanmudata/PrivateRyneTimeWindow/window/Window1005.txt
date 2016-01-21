@@ -1,0 +1,1 @@
+{"id":1005,"startTime":10050.0,"endTime":10080.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2.0,"userFeature":{"D85058af":{"detail":{"片子":1,"好":1}}}}
